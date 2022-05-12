@@ -1,5 +1,6 @@
 # SIMPLE_CRUD_JAVA
 Realización de un CRUD de usuarios MVC en JAVA MySQL y JavaScript
+![image](https://user-images.githubusercontent.com/62972995/168002301-a722a6ec-25c5-43f7-8e5d-df98d75ec150.png)
 
 *Creacion de Usuarios en BD MySQL
 ![image](https://user-images.githubusercontent.com/62972995/168002112-4ec6ac3d-9ac8-4be9-bf4f-04a5c087cc49.png)
